@@ -30,9 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $result = "ERROR!";
     }
   }
-} else {
-  $message = "<div class='alert alert-danger'> Not Found </div>";
-}
+} 
 
 ?>
 <!doctype html>
