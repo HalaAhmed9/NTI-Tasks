@@ -1,12 +1,9 @@
 <?php
-// dynamic table
-// dynamic rows
-// dynamic columns
-// check if gender of user == m ==> male
-// check if gender of user == f ==> female
-
-
-// collection => laravel => array of objects
+// dynamic table => 3 levels only
+// dynamic rows //4 
+// dynamic columns // 4
+// check if gender of user == m ==> male // 1
+// check if gender of user == f ==> female // 1
 $users = [
     (object)[
         'id' => 1,
